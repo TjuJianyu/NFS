@@ -2,7 +2,7 @@
 
 This is an **anonymous** repository which contains tools and experimental data for **Neural Feature Search: A Neural Architecture for Automated Feature Engineering.** 
 
-To use **Neural Feature Search**, following tools and environment are required:
+To use **Neural Feature Search**, the following tools and environment are required:
 
 * Python 3
   * javabridge (>= 1.0.14)
@@ -18,4 +18,4 @@ Uses:
 Detailed instructions and links to videos on installing the library are located
 [here](http://fracpete.github.io/python-weka-wrapper3/install.html).
 
-Please note, that you need a build environment to compile some libraries from source.
+Please note that you need a build environment to compile some libraries from source.
