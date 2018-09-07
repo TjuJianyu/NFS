@@ -19,3 +19,11 @@ Detailed instructions and links to videos on installing the library are located
 [here](http://fracpete.github.io/python-weka-wrapper3/install.html).
 
 Please note that you need a built environment to compile some libraries from source.
+
+## Run
+
+```
+python Main_sequency.py --dataset file_name
+```
+
+
