@@ -18,4 +18,4 @@ Uses:
 Detailed instructions and links to videos on installing the library are located
 [here](http://fracpete.github.io/python-weka-wrapper3/install.html).
 
-Please note that you need a build environment to compile some libraries from source.
+Please note that you need a built environment to compile some libraries from source.
