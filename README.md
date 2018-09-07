@@ -1,6 +1,6 @@
 # Neural Feature Search
 
-This is an **anonymous** repository which contains tools and experimental data for **Neural Feature Search: A Neural Architecture for Automated Feature Engineering. 
+This is an **anonymous** repository which contains tools and experimental data for **Neural Feature Search: A Neural Architecture for Automated Feature Engineering.** 
 
 To use **Neural Feature Search**, following tools and environment is required:
 
