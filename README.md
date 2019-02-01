@@ -9,9 +9,9 @@ To use **Neural Feature Search**, the following tools and environment are requir
 * Oracle JDK 1.8+
 * Python wrapper for the Java machine learning workbench [Weka](http://www.cs.waikato.ac.nz/~ml/weka/)
 using the [javabridge](https://pypi.python.org/pypi/javabridge) library.
-
-Uses:
 * Weka (3.9.2)
+* Scikit-learn 0.19.1
+* TensorFlow 1.10.0 
 
 ## Installation
 
