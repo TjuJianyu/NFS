@@ -35,7 +35,7 @@ def parse_args():
 	parser.add_argument('--lr', type=float,
 		default=0.01, help='set learning rate')
 	parser.add_argument('--epochs', type=int,
-		default=10000, help='training epochs')
+		default=100, help='training epochs')
 	parser.add_argument('--evaluate', nargs='?',
 		default='1-rae', help='choose evaluation method')
 	parser.add_argument('--task', nargs='?',
